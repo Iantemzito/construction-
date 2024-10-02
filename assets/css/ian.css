@@ -1,0 +1,26 @@
+body{
+    background-image: url("/assets/images/ujenzi2.jpg");
+    background-size: contain;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+}
+.main{
+    display: flex;
+    gap: 200px;
+}
+h2{
+    color: white;
+}
+#head{
+    display: flex;
+    gap: 40px;
+}
+p, h2{
+    color: yellow;
+
+}
+.email{
+    background-color: blue;
+}
+
